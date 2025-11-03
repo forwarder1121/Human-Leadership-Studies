@@ -34,8 +34,5 @@ Human_Leadership_Studies/
 │   ├── sports_psychology/
 │   ├── management_principles/
 │   └── philosophy_of_human_understanding/
-└── essays/
-    ├── leadership_and_empathy.md
-    ├── motivation_and_teamflow.md
-    └── burnout_and_focus.md
+
 ```
