@@ -39,4 +39,3 @@ Human_Leadership_Studies/
     ├── motivation_and_teamflow.md
     └── burnout_and_focus.md
 ```
-                                             |
